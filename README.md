@@ -2,5 +2,3 @@
 
 n11 login with facebook burakgul028
 serenity
-
-#proje henüz tamamlanmadı
